@@ -157,3 +157,5 @@ All async tasks are wrapped in a `supervised_task` runner that auto-restarts on 
 ## Risk Disclaimer
 
 This bot trades real money in live mode. Prediction markets carry significant risk. Use paper trading mode to evaluate strategy performance before committing capital. The authors are not responsible for any financial losses.
+
+Contributors: mithian, Socket, stanlee

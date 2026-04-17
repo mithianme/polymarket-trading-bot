@@ -56,8 +56,8 @@ Polymarket Order Book ──► Poly Mid Price
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/polymarket-arb-bot.git
-cd polymarket-arb-bot
+git clone https://github.com/mithianme/polymarket-trading-bot.git
+cd polymarket-trading-bot
 pip install -r requirements.txt
 ```
 

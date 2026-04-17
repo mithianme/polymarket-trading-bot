@@ -111,10 +111,10 @@ You must also provide `POLY_PRIVATE_KEY` and optionally `POLY_API_KEY`, `POLY_AP
 
 ```bash
 # Paper trading (default)
-python polymarket_arb_bot.py
+python polymarket_trading_bot.py
 
 # Backtesting
-python polymarket_arb_bot.py --backtest backtest_data.csv
+python polymarket_trading_bot.py --backtest backtest_data.csv
 ```
 
 ## Dashboard
